@@ -1,4 +1,4 @@
-## You must be have this sequelize configuration to run this app:
+## You must have this sequelize configuration to run this app:
 
 <p align="center"><img src="./demo/database-config.PNG"></p>
 
